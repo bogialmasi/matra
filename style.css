@@ -74,3 +74,8 @@ A.link:link {
     margin-left:25%; 
     margin-right:15%;
 }
+
+hr{
+    border: 3px solid darkgreen ;
+    width:"80%";
+}
